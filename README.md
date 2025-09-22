@@ -24,7 +24,7 @@ Dies ist eine Fullstack-Webanwendung zur Verwaltung einer digitalen Einkaufslist
 ### Backend starten
 
 ``` bash
-npm run dev
+npm run start
 ```
 
 ### Frontend starten
